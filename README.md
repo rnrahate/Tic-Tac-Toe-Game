@@ -1,7 +1,3 @@
-Here's a `README.md` file tailored for your HTML Tic-Tac-Toe project:
-
----
-
 # Tic-Tac-Toe Game
 
 This is a simple Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript**. It supports two players and offers a basic game board with rules, a winner announcement feature, and a reset button to restart the game.
@@ -57,7 +53,7 @@ tic-tac-toe/
 
 ## Game Screenshot
 
-![Tic Tac Toe Screenshot](screenshot.png)
+![alt text](<UI.png>) ![alt text](<Winner.png>)
 
 ## Future Enhancements
 
@@ -69,6 +65,4 @@ tic-tac-toe/
 
 This project is open-source and free to use under the MIT License. Feel free to modify and enhance the code.
 
----
-
-This README provides clear instructions for users and developers alike, and you can always expand on it with more specific details or features as you continue to enhance your Tic-Tac-Toe game.
+HAPPY CODING!
